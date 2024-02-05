@@ -8,7 +8,7 @@ class Leonardo():
 
   def __init__(self):
       self.name = "Leonardo"
-      self.interests = ["Software", "Self-hosting", "Linguistics", "Philosphy"]
+      self.interests = ["Software", "Self-hosting", "Linguistics", "Philosophy"]
       self.languages = ["it_IT", "en_US"] # TODO: add zh_CN
 
   def greet(self):
