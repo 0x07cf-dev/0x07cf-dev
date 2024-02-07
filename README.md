@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![Homepage](https://img.shields.io/badge/Homepage%3A-https%3A%2F%2F0x07.cf%2F-blue)
+<!--![Homepage](https://img.shields.io/badge/Homepage%3A-https%3A%2F%2F0x07.cf%2F-blue)-->
 
 ```python
 
@@ -20,9 +20,9 @@ me.greet()
 
 
 ## 🌱 Education and Learning
-- **Education**: Studying **Languages for Business Communication** at [Università di Siena](https://unisi.it) (2022/23).
-- **Free time**: Studying Python, algorithms, data structures, basics of machine learning.
-- **Future**: Would love to learn either C++ or Rust. Would love to get a second degree.
+- **Education**: Studying **Languages for Business Communication** at [Università di Siena](https://unisi.it) (Chinese) (2022/23).
+- **Free time**: Studying algorithms, data structures, basic concepts of ML. Currently focusing on Python.
+- **Future**: Would love to start learning some C++ or Rust. Would love to get a second degree in a few years.
 
 ## ⚡Technologies
 
