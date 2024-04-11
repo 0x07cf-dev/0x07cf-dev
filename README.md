@@ -22,7 +22,7 @@ me.greet()
 ## 🌱 Education
 - **Education**: Studying **Languages for Business Communication** at [Università di Siena](https://unisi.it) (Chinese) (2022/23).
 - **Free time**: Studying algorithms, data structures. Currently focusing on Go and Python.
-- **Future**: Would love to start learning some C++ or Rust. Would love to get a second degree in a few years.
+- **Future**: Rust? Would love to pursue a second degree in a few years.
 
 ## ⚡Technologies
 
@@ -30,7 +30,7 @@ me.greet()
 ![Python](https://img.shields.io/badge/Code-Python-4800AC?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-4800AC?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Code-Java-4800AC?style=for-the-badge)
-![WebDev](https://img.shields.io/badge/Code-Next.js-4800AC?style=for-the-badge)
+<!--![WebDev](https://img.shields.io/badge/Code-Next.js-4800AC?style=for-the-badge)-->
 
 Work in progress...
 
