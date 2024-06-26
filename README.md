@@ -20,9 +20,9 @@ me.greet()
 
 
 ## 🌱 Education
-- **Education**: Studying **Languages for Business Communication** at [Università di Siena](https://unisi.it) (Chinese) (2022/23).
-- **Free time**: Studying algorithms, data structures. Currently focusing on Go and Python.
-- **Future**: Rust? Would love to pursue a second degree in a few years.
+- **Education**: Studying **Languages for Business Communication** at [Università di Siena](https://unisi.it) (Chinese focus) (2022/23).
+- **Free time**: Currently focusing on Go and Ansible.
+- **Future**: Would love to pursue a second degree.
 
 ## ⚡Technologies
 
