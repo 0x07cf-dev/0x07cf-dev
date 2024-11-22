@@ -21,13 +21,15 @@ me.greet()
 
 ## 🌱 Education
 - **Education**: Studying **Languages for Business Communication** at [Università di Siena](https://unisi.it) (Chinese focus) (2022/23).
-- **Free time**: Currently focusing on Go and Ansible.
+- **Free time**: Currently focusing on Go and IaC (Ansible & Terraform).
 - **Future**: Would love to pursue a second degree.
 
 ## ⚡Technologies
 
 ![Go](https://img.shields.io/badge/Code-Go-4800AC?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Code-Python-4800AC?style=for-the-badge)
+![Ansible](https://img.shields.io/badge/Code-Ansible-4800AC?style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Code-Terraform-4800AC?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-4800AC?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Code-Java-4800AC?style=for-the-badge)
 <!--![WebDev](https://img.shields.io/badge/Code-Next.js-4800AC?style=for-the-badge)-->
