@@ -7,8 +7,8 @@
 class Leonardo():
 
   def __init__(self):
-      self.name = "Leonardo"
-      self.interests = ["Software", "Self-hosting", "Linguistics", "Philosophy"]
+      self.name = "Leonardo Buoncompagni"
+      self.interests = ["Computers", "Self-hosting", "Linguistics", "Philosophy"]
       self.languages = ["it_IT", "en_US"] # TODO: add zh_CN
 
   def greet(self):
@@ -20,26 +20,22 @@ me.greet()
 
 
 ## 🌱 Education
-- **Education**: Studying **Languages for Business Communication** at [Università di Siena](https://unisi.it) (Chinese focus) (2022/23).
+- **Education**: Studying **Languages for Business Communication** at [Università di Siena](https://unisi.it) (Chinese focus) (2022/23 - present).
 - **Free time**: Currently focusing on Go and IaC (Ansible & Terraform).
 - **Future**: Would love to pursue a second degree.
 
 ## ⚡Technologies
+![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFE873)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=F7DF1E)
 
-![Go](https://img.shields.io/badge/Code-Go-4800AC?style=for-the-badge)
-![Python](https://img.shields.io/badge/Code-Python-4800AC?style=for-the-badge)
-![Ansible](https://img.shields.io/badge/Code-Ansible-4800AC?style=for-the-badge)
-![Terraform](https://img.shields.io/badge/Code-Terraform-4800AC?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-4800AC?style=for-the-badge)
-![Java](https://img.shields.io/badge/Code-Java-4800AC?style=for-the-badge)
-<!--![WebDev](https://img.shields.io/badge/Code-Next.js-4800AC?style=for-the-badge)-->
-
-Work in progress...
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=fff)
+![Terraform](https://img.shields.io/badge/Terraform-7b42bc?style=for-the-badge&logo=terraform&logoColor=fff)
 
 <!--
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=for-the-badge&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![DynamoDB](https://img.shields.io/badge/Database-DynamoDB-informational?style=for-the-badge&logo=amazon-dynamodb&logoColor=white&color=6aa6f8)
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=6aa6f8)
+There are no Easter Eggs up here. Go away.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
