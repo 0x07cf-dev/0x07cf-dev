@@ -26,10 +26,6 @@ jobs:
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Output to Gist.
-          output_action: gist
-          committer_gist: 9da0452cac957cb412a9db7726c7df48
-
           # Options.
           template: classic
           base: header, activity, community, repositories, metadata
